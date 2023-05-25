@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "valida-cpf/1.0.0": {
+        "runtime": {
+          "valida-cpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "valida-cpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
